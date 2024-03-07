@@ -26,8 +26,8 @@ AI - 2024 Spring
 
 | 周数📆 | 日期🕣 | 内容📒                               |  主讲💂‍♂️  |                          本周任务 📌                          |                            课件📘                             |
 | :---: | :---: | ----------------------------------- | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  01   | 2-28  | Introduction and Intelligent Agents | Bin Yang | [Assignment01](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Assignment1.pdf) | [课件01](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture01/lec01.pdf) |
-|  02   |  3-6  |                                     |          |                                                              |                                                              |
+|  01   | 2-28  | Introduction and Intelligent Agents | Bin Yang | [Assignment01](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Assignment_1/Assignment1.pdf) | [课件01](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture01/lec01.pdf) |
+|  02   |  3-6  | Problem Solving: Search             | Bin Yang | [Project01](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_1/Project1.pdf) / [Readme](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_1/Project1_readme.pdf) | [课件02](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture02/lec02.pdf) |
 
 ---
 
