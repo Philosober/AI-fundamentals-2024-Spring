@@ -1,6 +1,6 @@
-# AI Fundamental 2024 Spring
+# AI Fundamentals 2024 Spring
 
-AI - 2024 Spring
+（ECNU-DaSE）AI Fundamentals 2024 Spring
 
 本仓库为《人工智能基础》（拔尖基地班）2024年春季学期课程仓库。所有的课程安排、资料、习题、作业、项目等均放在此处。欢迎大家积极提出问题和建议，一起来交流~
 
@@ -24,10 +24,11 @@ AI - 2024 Spring
 ---
 
 
-| 周数📆 | 日期🕣 | 内容📒                               |  主讲💂‍♂️  |                          本周任务 📌                          |                            课件📘                             |
-| :---: | :---: | ----------------------------------- | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  01   | 2-28  | Introduction and Intelligent Agents | Bin Yang | [Assignment01](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Assignment_1/Assignment1.pdf) | [课件01](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture01/lec01.pdf) |
-|  02   |  3-6  | Problem Solving: Search             | Bin Yang | [Project01](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_1/Project1.pdf) / [Readme](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_1/Project1_readme.pdf) | [课件02](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture02/lec02.pdf) |
+| 周数📆 | 日期🕣 | 内容📒                                                        |  主讲💂‍♂️  |                          本周任务 📌                          |                            课件📘                             |
+| :---: | :---: | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  01   | 2-28  | Introduction and Intelligent Agents                          | Bin Yang | [Assignment01](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Assignment_1/Assignment1.pdf) | [课件01](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture01/lec01.pdf) |
+|  02   |  3-6  | Problem Solving: Search                                      | Bin Yang | [Project01](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_1/Project1.pdf) / [Readme](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_1/Project1_readme.pdf) | [课件02](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture02/lec02.pdf) |
+|  03   | 3-13  | Problem Solving: Informed Search & Search in Complex Environments | Bin Yang |                                                              | [课件03](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture03/lec03.pdf) |
 
 ---
 
