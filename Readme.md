@@ -29,6 +29,7 @@
 |  01   | 2-28  | Introduction and Intelligent Agents                          | Bin Yang | [Assignment01](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Assignment_1/Assignment1.pdf) | [课件01](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture01/lec01.pdf) |
 |  02   |  3-6  | Problem Solving: Search                                      | Bin Yang | [Project01](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_1/Project1.pdf) / [Readme](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_1/Project1_readme.pdf) | [课件02](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture02/lec02.pdf) |
 |  03   | 3-13  | Problem Solving: Informed Search & Search in Complex Environments | Bin Yang |                                                              | [课件03](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture03/lec03.pdf) |
+|  04   | 3-20  | Search in Complex Environments                               | Bin Yang | [Project01_hint](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_1/Project_1_Hint.pdf) | [课件04](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture04/lec04.pdf) |
 
 ---
 
