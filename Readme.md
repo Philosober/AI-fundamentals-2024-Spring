@@ -33,7 +33,7 @@
 |  05   | 3-27  | Adversarial Search and Games                                 | Bin Yang |                              \                               | [课件05](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture05/lec05.pdf) |
 |  06   |  4-5  | Constraint Satisfaction Problems                             | Bin Yang |                              \                               | [课件06](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture06/lec06.pdf) |
 |  07   | 4-12  | Logical Agents                                               | Bin Yang |                              \                               | [课件07](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture07/lec07.pdf) |
-|  08   | 4-19  | First-Order Logic & Knowledge Representation                 | Bin Yang |                              \                               | [课件08](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture08/lec08.pdf) |
+|  08   | 4-19  | First-Order Logic & Knowledge Representation                 | Bin Yang | [Assignment02](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Assignment_2/Assignment2.pdf) | [课件08](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture08/lec08.pdf) |
 |  09   | 4-24  | Knowledge Representation<br />Automated Planning<br />Quantifying Uncertainty | Bin Yang |                              \                               | [课件09](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture09/lec09.pdf) |
 
 ---
