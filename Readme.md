@@ -33,12 +33,19 @@
 |  05   | 3-27  | Adversarial Search and Games                                 | Bin Yang |                              \                               | [课件05](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture05/lec05.pdf) |
 |  06   |  4-5  | Constraint Satisfaction Problems                             | Bin Yang |                              \                               | [课件06](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture06/lec06.pdf) |
 |  07   | 4-12  | Logical Agents                                               | Bin Yang |                              \                               | [课件07](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture07/lec07.pdf) |
-|  08   | 4-19  | First-Order Logic & Knowledge Representation                 | Bin Yang | [Assignment02](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Assignment_2/Assignment2.pdf) | [课件08](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture08/lec08.pdf) |
+|  08   | 4-19  | First-Order Logic & Knowledge Representation                 | Bin Yang |                              \                               | [课件08](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture08/lec08.pdf) |
 |  09   | 4-24  | Knowledge Representation<br />Automated Planning<br />Quantifying Uncertainty | Bin Yang |                              \                               | [课件09](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture09/lec09.pdf) |
+|  10   |  5-1  | \                                                            |    \     |                              \                               |                              \                               |
+|  11   |  5-8  | Quantifying Uncertainty and Probabilistic Reasoning          | Bin Yang | [Assignment02](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Assignment_2/Assignment2.pdf) | [课件10](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture10/lec10.pdf) |
+|  12   | 5-15  |                                                              |          |                                                              |                                                              |
 
----
+### 3、课程考核
 
-**Project1看板**
+**时间**：第十八周理论课+实验课
+
+**方式**：Project Two和Project Three二选一，每人五分钟Presentation+五分钟提问，综合打分给成绩。
+
+**Project One看板**
 
 | 学号        | 1-1  | 1-2  | 1-3  | 2-2  | 2-4  |
 | ----------- | ---- | ---- | ---- | ---- | ---- |
@@ -72,7 +79,7 @@
 
 **现场闯关加成**：10222140454，10225102444，10225101529，10225101546
 
-### 3、参考教材
+### 4、参考教材
 
 [1] Stuart J.Russell，Peter Norvig，《人工智能：一种现代的方法（第3版 影印版）》，北京：清华大学出版社，2011年。（主教材）
 
