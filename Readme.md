@@ -43,7 +43,7 @@
 
 **时间**：第十八周理论课+实验课
 
-**方式**：Project Two和Project Three二选一，每人五分钟Presentation+五分钟提问，综合打分给成绩。
+**方式**：[Project Two](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_2/Project_2.pdf)和Project Three二选一，每人五分钟Presentation+五分钟提问，综合打分给成绩。
 
 **Project One看板**
 
