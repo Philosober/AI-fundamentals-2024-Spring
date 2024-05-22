@@ -34,16 +34,20 @@
 |  06   |  4-5  | Constraint Satisfaction Problems                             | Bin Yang |                              \                               | [课件06](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture06/lec06.pdf) |
 |  07   | 4-12  | Logical Agents                                               | Bin Yang |                              \                               | [课件07](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture07/lec07.pdf) |
 |  08   | 4-19  | First-Order Logic & Knowledge Representation                 | Bin Yang |                              \                               | [课件08](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture08/lec08.pdf) |
-|  09   | 4-24  | Knowledge Representation<br />Automated Planning<br />Quantifying Uncertainty | Bin Yang |                              \                               | [课件09](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture09/lec09.pdf) |
+|  09   | 4-24  | Knowledge Representation<br />Automated Planning<br />Quantifying Uncertainty | Bin Yang | [Assignment02](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Assignment_2/Assignment2.pdf) | [课件09](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture09/lec09.pdf) |
 |  10   |  5-1  | \                                                            |    \     |                              \                               |                              \                               |
-|  11   |  5-8  | Quantifying Uncertainty and Probabilistic Reasoning          | Bin Yang | [Assignment02](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Assignment_2/Assignment2.pdf) | [课件10](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture10/lec10.pdf) |
-|  12   | 5-15  |                                                              |          |                                                              |                                                              |
+|  11   |  5-8  | Quantifying Uncertainty and Probabilistic Reasoning          | Bin Yang | [Assignment03](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Assignment_3/Assignment3.pdf) | [课件10](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture10/lec10.pdf) |
+|  12   | 5-15  |                                                              | Yang Shu |                                                              |                                                              |
+|  13   | 5-22  | Learning from Examples                                       | Bin Yang |                              \                               | [课件12](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture12/lec12.pdf) |
+|  14   |       |                                                              |          |                                                              |                                                              |
+|  15   |       |                                                              |          | [Project02](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_2/Project_Two.pdf) |                                                              |
+|  16   |       |                                                              |          | [Project02](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_2/Project2_自选.pdf) |                                                              |
 
 ### 3、课程考核
 
 **时间**：第十八周理论课+实验课
 
-**方式**：[Project Two](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_2/Project_2.pdf)和Project Three二选一，每人五分钟Presentation+五分钟提问，综合打分给成绩。
+**方式**：[Project Two](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_2/Project_2.pdf)（AimBoT任务或者自选任务），每人五分钟Presentation+五分钟提问，综合打分给成绩。
 
 **Project One看板**
 
