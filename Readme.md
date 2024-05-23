@@ -40,7 +40,7 @@
 |  12   | 5-15  |                                                              | Yang Shu |                                                              |                                                              |
 |  13   | 5-22  | Learning from Examples                                       | Bin Yang |                              \                               | [课件12](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/lecture12/lec12.pdf) |
 |  14   |       |                                                              |          |                                                              |                                                              |
-|  15   |       |                                                              |          | [Project02](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_2/Project_Two.pdf) |                                                              |
+|  15   |       |                                                              |          | [Project02](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_2/Project2.pdf) |                                                              |
 |  16   |       |                                                              |          | [Project02](https://github.com/Philosober/AI-fundamentals-2024-Spring/blob/master/Lab/Project_2/Project2_自选.pdf) |                                                              |
 
 ### 3、课程考核
